@@ -1,2 +1,2 @@
-# ML_for_TimeSeries_ClassExercises
- All tasks from UFRJ master's level summer course of Machine Learning for Time Series. (In progress)
+# ML for TimeSeries Class Exercises
+ All tasks from UFRJ summer course of Machine Learning for Time Series.
