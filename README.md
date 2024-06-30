@@ -1,2 +1,2 @@
 # ML for TimeSeries
-A compilation of tasks about Time Series
+A compilation of tasks about Time Series.
